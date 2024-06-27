@@ -24,5 +24,4 @@ replicate
 Groq
 google-generativeai
 streamlit_option_menu
-opencv-python
-cv2
+
