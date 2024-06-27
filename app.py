@@ -23,7 +23,7 @@ load_dotenv()
 
 # Set Streamlit configuration
 st.set_page_config(
-    page_title="AI-DOCTOR Agent",
+    page_title="Dr. HeAlify",
     page_icon="🧑‍⚕️",
     layout="centered",
     initial_sidebar_state="collapsed"
