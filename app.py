@@ -58,7 +58,7 @@ if selected == 'Home':
     Thank you for choosing HeAlify Doctor Agent. Your health is our priority!
 
     **Contact Us:**
-    If you have any questions or need assistance, feel free to contact me at [kartavyamaster17@gmail.com](mailto:kartavyamaster17@gmail.com).
+    If you have any questions or need assistance, feel free to contact me at [mail](mailto:kartavyamaster17@gmail.com).
     """)
     st.header('', divider='rainbow')
     with st.container(border=True): 
