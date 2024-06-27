@@ -18,7 +18,7 @@ from streamlit_option_menu import option_menu
 from streamlit.components.v1 import html
 
 # Load environment variables
-from dotenv import load_dotenv()
+from dotenv import load_dotenv
 load_dotenv()
 
 # Set Streamlit configuration
