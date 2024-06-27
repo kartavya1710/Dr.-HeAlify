@@ -80,7 +80,7 @@ if selected=='Medical Report Summery':
 
 
     # Load Groq API key from environment variable
-    groq_api_key = os.getenv("GROQ_API_KEY")
+    groq_api_key = os.getenv("groq_api_key")
 
     # Initialize the ChatGroq language model
     llm = ChatGroq(groq_api_key=groq_api_key, model_name="llama3-8b-8192")
