@@ -16,7 +16,6 @@ from werkzeug.utils import secure_filename
 import streamlit as st
 from streamlit_option_menu import option_menu
 from streamlit.components.v1 import html
-import cv2
 
 # Load environment variables
 load_dotenv()
@@ -35,7 +34,7 @@ with st.sidebar:
                          ['Home','Medical Report Summery','Dr. HeAlify Bot'],
                          icons=['person-circle','file-earmark-medical-fill'],
                          default_index=0)
-    image = cv2.imread('image1.png')
+    
 
 #-------------------------------------------------------------------------------------------------------------------------------------------------------
 
