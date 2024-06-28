@@ -49,7 +49,7 @@ if selected == 'Home':
     - **Medical Report Summarization:** Upload your medical reports and get concise summaries, key insights, and actionable advice.
     - **Dr. HeAlify Bot:** Chat with our AI-powered doctor for real-time assistance and medical advice.
 
-    We are committed to improving your healthcare experience by leveraging the power of artificial intelligence.
+    We are committed to improving your healthcare experience by leveraging the power of **AI**.
 
     **How to Get Started:**
     - Navigate to the **Medical Report Summery** section to upload and summarize your medical reports.
