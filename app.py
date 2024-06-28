@@ -57,7 +57,7 @@ if selected == 'Home':
 
     Thank you for choosing HeAlify Doctor Agent. Your health is our priority!
     """)
-    st.header("**Contact Us:**If you have any questions or need assistance, feel free to contact me at [mail](mailto:kartavyamaster17@gmail.com).",divider='rainbow')
+    st.title("**Contact Us:**If you have any questions or need assistance, feel free to contact me at [mail](mailto:kartavyamaster17@gmail.com).",divider='rainbow')
     
     
     with st.container(border=True): 
