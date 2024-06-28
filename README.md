@@ -2,7 +2,7 @@ Here is a README file for your GitHub repository:
 
 ---
 
-# HeAlify Doc-Agent
+# HeAlify Doc-Agent 🧑‍⚕️❤️💉
 
 Welcome to the **HeAlify Doc-Agent** repository! This project is an AI-powered healthcare assistant designed to help you understand your medical reports, provide personalized health advice, and assist you with any medical inquiries.
 
