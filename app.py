@@ -60,7 +60,7 @@ if selected == 'Home':
     **Contact Us:**
     If you have any questions or need assistance, feel free to contact me at [CLICK ME](mailto:kartavyamaster17@gmail.com).
     """)
-    st.header(divider='rainbow')
+    st.header("",divider='rainbow')
     
     with st.container(border=True): 
         st.markdown('''
