@@ -56,11 +56,11 @@ if selected == 'Home':
     - Visit the **Dr. HeAlify Bot** section to chat with our AI doctor for any medical advice or questions.
 
     Thank you for choosing HeAlify Doctor Agent. Your health is our priority!
-
+    
     **Contact Us:**
-    If you have any questions or need assistance, feel free to contact me at [CLICK ME](kartavyamaster17@gma).
+    If you have any questions or need assistance, feel free to contact me at [CLICK ME](mailto:kartavyamaster17@gmail.com).
     """)
-    st.header('', divider='rainbow')
+    st.header(divider='rainbow')
     
     with st.container(border=True): 
         st.markdown('''
