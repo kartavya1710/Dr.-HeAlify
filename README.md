@@ -61,7 +61,7 @@ Welcome to the **HeAlify Doc-Agent** repository! This project is an AI-powered h
 
 ## Contact
 
-If you have any questions or need assistance, feel free to contact me at [kartavyamaster17@gma](mailto:kartavyamaster17@gma).
+If you have any questions or need assistance, feel free to contact me at [kartavyamaster17@gmail.com](mailto:kartavyamaster17@gmail.com).
 
 ## Credits
 
