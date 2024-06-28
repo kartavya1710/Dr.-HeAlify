@@ -180,7 +180,7 @@ if selected=='Medical Report Summery':
         # Load documents and create vectors
         st.session_state.loader = PyPDFLoader(st.session_state.file_path)
         st.session_state.docs = st.session_state.loader.load()
-        st.session_state.final_documents = st.session_state.text_splitter.split_documents(st.session_state.docs[:20])
+        st.session_state.final_documents = st.session_state.text_splitter.split_documents(st.session_state.docs)
         st.session_state.vectors = FAISS.from_documents(st.session_state.final_documents, st.session_state.embeddings)
         
         # Define the secondary prompt for insights and advice
