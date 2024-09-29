@@ -11,7 +11,7 @@ Welcome to the **HeAlify Doc-Agent** repository! This project is an AI-powered h
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/HeAlify-Doc-Agent.git
+    git clone https://github.com/kartavya1710/HeAlify-Doc-Agent.git
     cd HeAlify-Doc-Agent
     ```
 
