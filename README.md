@@ -61,7 +61,7 @@ If you have any questions or need assistance, feel free to contact me at [kartav
 
 ## Credits
 
-Developed by **Kartavya Master**. Visit my portfolio [here](https://mydawjbhdas.my.canva.site/aiwithkartavya).
+Developed by **Kartavya Master**. Visit my portfolio [here]([https://mydawjbhdas.my.canva.site/aiwithkartavya](https://kartavyamaster17.wixsite.com/resume)).
 
 ---
 
