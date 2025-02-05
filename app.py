@@ -66,7 +66,7 @@ if selected == 'Home':
         st.markdown('''
             Developed by KARTAVYA MASTER :8ball:
         ''')
-        link = 'PORTFOLIO : [CLICK ME](https://mydawjbhdas.my.canva.site/aiwithkartavya)'
+        link = 'PORTFOLIO : [CLICK ME](https://kartavyamaster17.wixsite.com/resume)'
         st.markdown(link, unsafe_allow_html=True)
 
 
